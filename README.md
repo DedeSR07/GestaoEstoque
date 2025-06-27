@@ -45,7 +45,7 @@ Todos os visuais são interativos: ao selecionar um item nos filtros ou gráfico
 
 ## 📷 Preview
 
-- 📈 [Dashboard](./Imagens/dashboard_gestaovendas.jpg)
+- 📈 [Dashboard](./Imagens/dashboard_gestaovendas.png)
 
 ---
 
