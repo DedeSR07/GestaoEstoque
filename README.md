@@ -1,4 +1,4 @@
-# 📦 Dashboard de Gestão de Estoque — Power BI
+# 📦 Dashboard de Gestão de Estoque 
 
 Este projeto apresenta um dashboard interativo criado no Power BI, com foco no monitoramento e análise de estoque por categoria, fornecedor e status dos produtos.
 
@@ -49,3 +49,13 @@ Todos os visuais são interativos: ao selecionar um item nos filtros ou gráfico
 
 ---
 
+## 👨‍💻 Autor
+
+**David Souza Ribeiro**  
+
+---
+
+## 📝 Observações
+
+Este projeto faz parte de um portfólio pessoal com foco em análise de dados com Excel e Power BI.  
+Os dados são fictícios e foram gerados apenas para fins de estudo.
